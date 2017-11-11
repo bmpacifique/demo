@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+#### ADD YOUR INFORMATION
+#### Press: control + X
+#### Type: Y
+#### Press: enter
